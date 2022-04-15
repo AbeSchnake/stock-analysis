@@ -22,3 +22,6 @@ Below is a comparison of the runtimes for 2017 and 2018. These times are about o
              tickerEndingPrices(tickerIndex) = Cells(i, 6).Value
 ![2017 Runtime](https://github.com/AbeSchnake/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![2018 Runtime](https://github.com/AbeSchnake/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+## Summary
+The major advantage of refactoring code is that it makes the code run more effeciently each time it's run. The downside is the upfront time and effort spent by the programmer refactoring the code. For this project, if this code is just used to compare 2 stock years for the client one time, refactoring is unlikely to be worth it. However, if this code is to be used as a template for comparing other stocks in the future, then a little time spent upfront making the code run better is probably worth it over the long run.
