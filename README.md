@@ -4,3 +4,5 @@ The goal of this project was to analyze the performace of various stocks in the 
 ## Results
 ![2017 Performance](https://github.com/AbeSchnake/stock-analysis/blob/main/Resources/2017%20Stock%20Performance.png)
 ![2018 Performance](https://github.com/AbeSchnake/stock-analysis/blob/main/Resources/2018%20Stock%20Performance.png)
+![2017 Runtime](https://github.com/AbeSchnake/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![2018 Runtime](https://github.com/AbeSchnake/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
